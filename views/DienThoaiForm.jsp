@@ -51,7 +51,7 @@
 
         <!-- Navbar -->
         <nav class="mb-6">
-            <a href="dsdtncc" class="bg-blue-500 text-white px-4 py-2 rounded mr-2">Danh Sách Sản Phẩm</a>
+            <a href="listdt" class="bg-blue-500 text-white px-4 py-2 rounded mr-2">Danh Sách Sản Phẩm</a>
             <a href="DienThoaiFormServlet" class="bg-gray-500 text-white px-4 py-2 rounded mr-2">Thêm Mới Sản Phẩm</a>
             <a href="QuanLyFormServlet" class="bg-teal-500 text-white px-4 py-2 rounded">Chức Năng Quản Lý</a>
         </nav>
@@ -112,7 +112,7 @@
 
         <!-- Footer -->
         <footer class="mt-6 text-center">
-            <small class="text-gray-500">Nguyễn Tiến Phát - 21032191</small>
+            <small class="text-gray-500"></small>
         </footer>
     </div>
 </body>
